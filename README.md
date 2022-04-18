@@ -1,2 +1,1 @@
-# sudoku-solver
-it solve sudoku
+# sudoku_game
